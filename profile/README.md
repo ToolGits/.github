@@ -6,9 +6,13 @@
 
 Turning ideas into software, technology, and games.
 
-[![Organization](https://img.shields.io/badge/organization-ToolGits-blue?style=for-the-badge&logo=github)](https://github.com/ToolGits)
-[![Technology](https://img.shields.io/badge/field-Technology-black?style=for-the-badge&logo=linux)]
-[![Games](https://img.shields.io/badge/field-Games-orange?style=for-the-badge&logo=itchdotio)]
+[![Organization](https://img.shields.io/badge/organization-ToolGits-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ToolGits)
+[![Technology](https://img.shields.io/badge/field-Technology-black?style=for-the-badge&logo=linux&logoColor=white)]
+[![Games](https://img.shields.io/badge/field-Games-orange?style=for-the-badge&logo=itchdotio&logoColor=white)]
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/)
 
 </div>
 
